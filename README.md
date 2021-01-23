@@ -1,6 +1,6 @@
 # React Text Editor
 
-![React Text Editor](https://github.com/ramanasathish/react-text-editor/blob/main/public/reactTextEditor.PNG)
+![React Text Editor](https://github.com/ramanasathish/react-text-editor/blob/master/public/reactTextEditor.PNG)
 
 clone Repo [Github](https://github.com/ramanasathish/react-text-editor.git)
 
